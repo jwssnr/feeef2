@@ -1,5 +1,6 @@
-# Wieso ist es Zeit für das EFZ als Frontend-Entwicker/in?
+# Wieso ist es Zeit für das EFZ* als Frontend-Entwicker/in?
 
+* Eidgenössisches Fähigkeitszeugnis
 Es gibt am Markt einen Mangel an Fachkräften im Bereich Frontend-Entwicklung bzw. Frontend-Development. Ganz spezifisch fehlt es an solchen, welche a) einen gestalterischen Hintergrund haben, die wissen wovon Design und User Experience reden, die verstehen, warum etwas genau so aussehen muss, wie es gestaltet wurde, die Gestaltungsalternativen und -weiterentwicklungen liefern können, ohne dass sich besagten Kolleginnen und Kollegen das Nackenhaar sträubt und b) solche, deren Fähigkeiten ebenso weit ins Backend reichen.
 
 # Was tun die?
