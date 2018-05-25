@@ -13,6 +13,7 @@ Frontender stehen im Prozess zwischen Designer und Backender und haben – ober 
 - kann HTML, CSS, SVG (Level 4/4).
 - kann Javascript (Level 4/4).
 - kann PHP (Level 3/4).
+- kann Git (Level 4/4).
 - findet sich im Dschungel der Technologien zurecht, beurteilt Trends, reflektiert, hält sich Up-to-date.
 - kennt die populären CMS und kann deren Templates bauen.
 - kann sich schnell innert nützlicher Frist in neue, verwandte Technologien einarbeiten.
@@ -23,7 +24,8 @@ Frontender stehen im Prozess zwischen Designer und Backender und haben – ober 
 - kann Vektorbearbeitung.
 - kennt Technologien des Internets.
 - kennt Technologien des Webs.
-- kein seine Werkzeuge unterhalten.
-- kennt Orthografie und Grammatik seiner Muttersprache und Englisch.
-- kann die DSGVO umsetzen bzw. seine Kunden beraten
+- kann seine Werkzeuge (Hard- und Software) unterhalten.
+- kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden.
+- kann Datenschutzgesetze umsetzen bzw. seine Kunden beraten.
+- schont Ressourcen.
 - …
