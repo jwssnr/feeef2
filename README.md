@@ -10,16 +10,18 @@ Sie bauen Websites und Apps – konkret deren Frontend. Das Frontend ist das, wa
 Frontender stehen im Prozess zwischen Designer und Backender und haben – ober besser sollten – für eine reibungsarme Zusammenarbeit überschneidende Kompetenzen mit beiden Berufen haben.
 
 ## «Skizze» des Fähigkeitenkatalogs
-- kann HTML, CSS, SVG (Level 4/4).
-- kann Javascript (Level 4/4).
-- kann PHP (Level 3/4).
-- kann Git (Level 4/4).
+- kann HTML, CSS, JS 
+- *kann API (zu präzisieren).*
+- kann SVG.
+- *kann das «Drumherum» (Sass, Pug, ES6/Babel und wie sie alle heissen – zu präzisieren)*
+- *kann «Legacy-Technologien» (zu präzisieren, Beispiel PHP).*
+- kann Git.
 - findet sich im Dschungel der Technologien zurecht, beurteilt Trends, reflektiert, hält sich Up-to-date.
 - kennt die populären CMS und kann deren Templates bauen.
 - kann sich schnell innert nützlicher Frist in neue, verwandte Technologien einarbeiten.
-- versteht Prozesse des Backends (zu präzisieren).
-- ist fit in Typografie (zu präzisieren).
-- ist fit in Design (zu präzisieren).
+- *versteht Prozesse des Backends (zu präzisieren).*
+- *ist fit in Typografie (zu präzisieren).*
+- *ist fit in Design (zu präzisieren).*
 - kann User durch den Inhalt führen.
 - kann Bildbearbeitung. 
 - kann Vektorbearbeitung.
