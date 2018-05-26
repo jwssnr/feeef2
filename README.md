@@ -9,7 +9,7 @@ Sie bauen Websites und Apps – konkret deren Frontend. Das Frontend ist das, wa
 
 Frontender stehen im Prozess zwischen Designer und Backender und haben – ober besser sollten – für eine reibungsarme Zusammenarbeit überschneidende Kompetenzen mit beiden Berufen haben.
 
-## «Skizze» des Fähigkeitenkatalogs
+## Grobe «Skizze» des Fähigkeitenkatalogs
 - kann HTML, CSS, SVG (Level 4/4).
 - kann Javascript (Level 4/4).
 - kann PHP (Level 3/4).
