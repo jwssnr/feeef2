@@ -10,7 +10,7 @@ Sie bauen Websites und Apps – konkret deren Frontend. Das Frontend ist das, wa
 Frontender stehen im Prozess zwischen Designer und Backender und haben – ober besser sollten – für eine reibungsarme Zusammenarbeit überschneidende Kompetenzen mit beiden Berufen haben.
 
 ## Grobe «Skizze» des Fähigkeitenkatalogs
-- kann HTML, CSS, JS 
+- kann HTML, CSS, JS
 - *kann API (zu präzisieren).*
 - kann SVG.
 - *kann das «Drumherum» (Sass, Pug, ES6/Babel und wie sie alle heissen – zu präzisieren)*
@@ -23,7 +23,7 @@ Frontender stehen im Prozess zwischen Designer und Backender und haben – ober 
 - *ist fit in Typografie (zu präzisieren).*
 - *ist fit in Design (zu präzisieren).*
 - kann User durch den Inhalt führen.
-- kann Bildbearbeitung. 
+- kann Bildbearbeitung.
 - kann Vektorbearbeitung.
 - kennt Technologien des Internets.
 - kennt Technologien des Webs.
@@ -32,3 +32,8 @@ Frontender stehen im Prozess zwischen Designer und Backender und haben – ober 
 - kann Datenschutzgesetze umsetzen bzw. seine Kunden beraten.
 - schont Ressourcen.
 - …
+
+# Verdeutlichung der Positionierung
+Besagte Kluft «überbrücken» heute Mediamatiker, Informatiker, vereinzelt Polygrafen und Grafiker, die sich selbstständig vertieft haben. Niemand aus diesen 4 Berufen hat ab Lehrabschluss eine ausreichend grosse Schnittmenge, sofern überhaupt eine vorhanden ist. (IMD = Interactive Media Designer)
+
+![Alt text](/kluft.png)
