@@ -36,4 +36,9 @@ Frontender stehen im Prozess zwischen Designer und Backender und haben – ober 
 # Verdeutlichung der Positionierung
 Besagte Kluft «überbrücken» heute Mediamatiker, Informatiker, vereinzelt Polygrafen und Grafiker, die sich selbstständig vertieft haben. Niemand aus diesen 4 Berufen hat ab Lehrabschluss eine ausreichend grosse Schnittmenge, sofern überhaupt eine vorhanden ist. (IMD = Interactive Media Designer)
 
-![Alt text](/kluft.png)
+![Alt Kluft](/kluft.png)
+
+## Grössenvergleich der Schnittmengen
+Den Soll-Zustand oben zu skizzieren war einfach. Schwieriger wirds beim Ist-Zustand der aktuellen Lehrabgänger. Die Darstellung hier ist unpräzis und entspricht einer Mischung aus persönlicher Erfahrung und der Einsicht in die einzelnen Bildungspläne. Der Mediamatiker als Generalist unter diesen vier Berufen ist am schwierigsten abzubilden. Bei ihm ist sehr ausschlaggebend, in was für einer Art Betrieb er die Lehre gemacht hat.
+
+![Alt Schnittmengenvergleich](/schnittmengenvergleich.png)
