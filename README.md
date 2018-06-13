@@ -2,7 +2,10 @@
 
 EFZ = Eidgenössisches Fähigkeitszeugnis
 
-Es gibt am Markt einen Mangel an Fachkräften im Bereich Frontend-Entwicklung bzw. Frontend-Development. Ganz spezifisch fehlt es an solchen, welche a) einen gestalterischen Hintergrund haben, die wissen wovon Design und User Experience reden, die verstehen, warum etwas genau so aussehen muss, wie es gestaltet wurde, die Gestaltungsalternativen und -weiterentwicklungen liefern können, ohne dass sich besagten Kolleginnen und Kollegen das Nackenhaar sträubt und b) solche, deren Fähigkeiten ebenso weit ins Backend reichen.
+Es gibt am Markt einen Mangel an Fachkräften im Bereich Frontend-Entwicklung bzw. Frontend-Development. Ganz spezifisch fehlt es an:
+- Personen mit gestalterischem Hintergrund und fundiertem Wissen in Design und User Experience
+- Personen die als Vermittlung zwischen
+- Personen die die Anforderung der Gestaltung verstehen und in Zusammenarbeit mit dem Backend dies für den User zugänglich machen.
 
 # Was tun die?
 Sie bauen Websites und Apps – konkret deren Frontend. Das Frontend ist das, was man sehen kann – wenn man will. Der Begriff ist nicht ganz einfach zu erklären, wenn man ihn nicht veranschaulichen kann. Nun klicken Sie mal mit Rechts irgendwo ins Layout einer Website und wählen Sie «Seitenquelltext anzeigen». Solchen Code – unter ganz viel anderem – machen Frontend-Entwickler/innen, damit eben Inhalt und Design so aussehen und funktionieren, wie sie sollen. Wo ein Frontend, da ein Backend. Unter Backend versteht man Software im Hintergrund, die dazu dient, Inhalte der Website oder der App zu generieren, sollten diese nicht statischer Natur sein. Man verzeihe mir diese rudimentären Erklärungen.
