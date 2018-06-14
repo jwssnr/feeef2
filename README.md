@@ -23,8 +23,7 @@ Frontender stehen im Prozess zwischen Designer und Backender und haben – ober 
 - kennt die wichtige CMS und kann dafür Templates bauen.
 - kann verwandte Technologien und Arbeitsweisen erkennen und adaptieren.
 - *versteht Prozesse des Backends (zu präzisieren).*
-- kennt die typografischen Eigenheiten von interaktiven Inhalten und kann diese, dem Ausgabemedium angepasst, gestalten.
-- *ist fit in Design (zu präzisieren).*
+- Kann Designkonzepte interpretieren und weiterentwickeln.
 - kann User durch den Inhalt führen.
 - kennt Technologien des Internets.
 - kennt Technologien des Webs.
