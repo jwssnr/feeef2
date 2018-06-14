@@ -13,9 +13,9 @@ Frontender stehen im Prozess zwischen Designer und Backender und haben – ober 
 - kann HTML.
 - kann CSS und kennt gebräuchliche Präpozessoren.
 - kann JS und kennt gebräuchliche Präpozessoren.
-- kann APIs konsumieren (RESTful und GraphQL) und kennt deren Eigenheiten.
-- kann Vektorbearbeitung und versteht deren Dateiformate (SVG).
-- kann Bildbearbeitung und versteht deren Dateiformate (SVG).
+- kann APIs konsumieren und kennt deren Eigenheiten.
+- kann Vektorbearbeitung und versteht deren Dateiformate.
+- kann Bildbearbeitung und versteht deren Dateiformate.
 - *kann «Legacy-Technologien» (zu präzisieren, Beispiel PHP).*
 - kann Git.
 - findet sich im Dschungel der Technologien zurecht, beurteilt Trends, reflektiert
