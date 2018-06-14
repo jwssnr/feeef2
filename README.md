@@ -10,7 +10,7 @@ Sie bauen Websites und Apps – konkret deren Frontend. Das Frontend ist das, wa
 Frontender stehen im Prozess zwischen Designer und Backender und haben – ober besser sollten – für eine reibungsarme Zusammenarbeit überschneidende Kompetenzen mit beiden Berufen haben.
 
 ## Grobe «Skizze» des Fähigkeitenkatalogs
-- kann HTML und versteht die den Unterschied zwischen Semantik und visueller Darstellung.
+- kann HTML.
 - kann CSS und kennt gebräuchliche Präpozessoren.
 - kann JS und kennt gebräuchliche Präpozessoren.
 - kann APIs konsumieren (RESTful und GraphQL) und kennt deren Eigenheiten.
