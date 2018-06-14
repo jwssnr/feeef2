@@ -10,26 +10,26 @@ Die Frontend-Entwicker/in EFZ bauen Websites und Apps – konkret deren Frontend
 Frontender stehen im Prozess zwischen Designer und Backender und sollten für eine reibungsarme Zusammenarbeit überschneidende Kompetenzen mit beiden Berufen haben.
 
 ## Grobe «Skizze» des Fähigkeitenkatalogs
-- kann HTML, CSS, JS
-- *kann API (zu präzisieren).*
-- kann SVG.
-- *kann das «Drumherum» (Sass, Pug, ES6/Babel und wie sie alle heissen – zu präzisieren)*
+- kann HTML.
+- kann CSS und kennt gebräuchliche Präpozessoren.
+- kann JS und kennt gebräuchliche Präpozessoren.
+- kann APIs konsumieren und kennt deren Eigenheiten.
+- kann Vektorbearbeitung und versteht deren Dateiformate.
+- kann Bildbearbeitung und versteht deren Dateiformate.
 - *kann «Legacy-Technologien» (zu präzisieren, Beispiel PHP).*
 - kann Git.
-- findet sich im Dschungel der Technologien zurecht, beurteilt Trends, reflektiert, hält sich Up-to-date.
-- kennt die populären CMS und kann deren Templates bauen.
-- kann sich schnell innert nützlicher Frist in neue, verwandte Technologien einarbeiten.
+- findet sich im Dschungel der Technologien zurecht, beurteilt Trends, reflektiert
+- kann Wissen selbstständig erschliessen und für sich nutzbar machen.
+- kennt die wichtige CMS und kann dafür Templates bauen.
+- kann verwandte Technologien und Arbeitsweisen erkennen und adaptieren.
 - *versteht Prozesse des Backends (zu präzisieren).*
-- *ist fit in Typografie (zu präzisieren).*
-- *ist fit in Design (zu präzisieren).*
+- Kann Designkonzepte interpretieren und weiterentwickeln.
 - kann User durch den Inhalt führen.
-- kann Bildbearbeitung.
-- kann Vektorbearbeitung.
 - kennt Technologien des Internets.
 - kennt Technologien des Webs.
 - kann seine Werkzeuge (Hard- und Software) unterhalten.
 - kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden.
-- kann Datenschutzgesetze umsetzen bzw. seine Kunden beraten.
+- kann Rechte und Pflichte umsetzen bzw. seine Kunden beraten. (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...)
 - schont Ressourcen.
 - …
 
