@@ -13,28 +13,27 @@ Die Frontend-Entwicker/in EFZ bauen Websites und Apps – konkret deren Frontend
 Frontender stehen im Prozess zwischen Designer und Backender und sollten für eine reibungsarme Zusammenarbeit überschneidende Kompetenzen mit beiden Berufen haben.
 
 ## Grobe «Skizze» des Fähigkeitenkatalogs
-- kann HTML.
-- kann CSS und kennt gebräuchliche Präpozessoren.
-- kann JS und kennt gebräuchliche Präpozessoren.
-- kann APIs konsumieren und kennt deren Eigenheiten.
-- kann Vektorbearbeitung und versteht deren Dateiformate.
-- kann Bildbearbeitung und versteht deren Dateiformate.
-- *kann «Legacy-Technologien» (zu präzisieren, Beispiel PHP).*
-- kann Git.
-- findet sich im Dschungel der Technologien zurecht, beurteilt Trends, reflektiert
-- kann Wissen selbstständig erschliessen und für sich nutzbar machen.
-- kennt die wichtige CMS und kann dafür Templates bauen.
-- kann verwandte Technologien und Arbeitsweisen erkennen und adaptieren.
-- *versteht Prozesse des Backends (zu präzisieren).*
+- Kann HTML.
+- Kann CSS und kennt gebräuchliche Präprozessoren.
+- Kann JS und kennt gebräuchliche Präprozessoren.
+- Kann APIs konsumieren und kennt deren Eigenheiten.
+- Kann Vektorbearbeitung und versteht deren Dateiformate.
+- Kann Bildbearbeitung und versteht deren Dateiformate.
+- Kann Git.
+- *Kann «Legacy-Technologien» (zu präzisieren, Beispiel PHP).*
+- *Versteht Prozesse des Backends (zu präzisieren)*.
+- Findet sich im Dschungel der Technologien zurecht, beurteilt Trends, reflektiert
+- Kann Wissen selbstständig erschliessen und für sich nutzbar machen.
+- Kennt die wichtige CMS und kann dafür Templates bauen.
+- Kann verwandte Technologien und Arbeitsweisen erkennen und adaptieren.
 - Kann Designkonzepte interpretieren und weiterentwickeln.
-- kann User durch den Inhalt führen.
-- kennt Technologien des Internets.
-- kennt Technologien des Webs.
-- kann seine Werkzeuge (Hard- und Software) unterhalten.
-- kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden.
-- kann Rechte und Pflichte umsetzen bzw. seine Kunden beraten. (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...)
-- schont Ressourcen.
-- …
+- Kann User durch den Inhalt führen.
+- Kennt Technologien des Internets.
+- Kennt Technologien des Webs.
+- Kann seine Werkzeuge (Hard- und Software) unterhalten.
+- Kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden.
+- Kann Rechte und Pflichte umsetzen bzw. seine Kunden beraten. (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...)
+- Schont Ressourcen.
 
 # Verdeutlichung der Positionierung
 Besagte Kluft «überbrücken» heute Mediamatiker, Informatiker, vereinzelt Polygrafen und Grafiker, die sich selbstständig vertieft haben. Niemand aus diesen 4 Berufen hat ab Lehrabschluss eine ausreichend grosse Schnittmenge, sofern überhaupt eine vorhanden ist. (IMD = Interactive Media Designer)
@@ -42,6 +41,6 @@ Besagte Kluft «überbrücken» heute Mediamatiker, Informatiker, vereinzelt Pol
 ![Alt Kluft](/kluft.png)
 
 ## Grössenvergleich der Schnittmengen
-Den Soll-Zustand oben zu skizzieren war einfach. Schwieriger wirds beim Ist-Zustand der aktuellen Lehrabgänger. Die Darstellung hier ist unpräzis und entspricht einer Mischung aus persönlicher Erfahrung und der Einsicht in die einzelnen Bildungspläne. Der Mediamatiker als Generalist unter diesen vier Berufen ist am schwierigsten abzubilden. Bei ihm ist sehr ausschlaggebend, in was für einer Art Betrieb er die Lehre gemacht hat.
+Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen Lehrabgänger schwierig zu skizzieren. Die Darstellung hier ist unpräzis und entspricht einer Mischung aus persönlicher Erfahrung und der Einsicht in die einzelnen Bildungspläne. Der Mediamatiker als Generalist unter diesen vier Berufen ist am schwierigsten abzubilden. Bei ihm ist sehr ausschlaggebend, in was für einer Art Betrieb er die Lehre gemacht hat.
 
 ![Alt Schnittmengenvergleich](/schnittmengenvergleich.png)
