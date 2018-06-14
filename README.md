@@ -4,7 +4,7 @@ EFZ = Eidgenössisches Fähigkeitszeugnis
 
 Es gibt am Markt einen Mangel an Fachkräften im Bereich Frontend-Entwicklung bzw. Frontend-Development. Ganz spezifisch fehlt es an:
 - Personen mit gestalterischem Hintergrund und fundiertem Wissen in Design und User Experience
-- Personen die als Vermittlung zwischen
+- Personen die zwischen Informatik und Kreation vermitteln.
 - Personen die die Anforderung der Gestaltung verstehen und in Zusammenarbeit mit dem Backend dies für den User zugänglich machen.
 
 # Was tun die?
