@@ -2,15 +2,24 @@
 
 EFZ = Eidgenössisches Fähigkeitszeugnis
 
+![Alt Kluft](/darstellung-soll.svg)
+
 Es gibt am Markt einen Mangel an Fachkräften im Bereich Frontend-Entwicklung bzw. Frontend-Development. Ganz spezifisch fehlt es an:
 - Personen mit gestalterischem Hintergrund und fundiertem Wissen in Design und User Experience
 - Personen die zwischen Informatik und Kreation vermitteln.
 - Personen die die Anforderung der Gestaltung verstehen und in Zusammenarbeit mit dem Backend dies für den User zugänglich machen.
 
 # Arbeitsumfeld
-Die Frontend-Entwicker/in EFZ bauen Websites und Apps – konkret deren Frontend. Als Frontend wird die grafische Darstellung und Interaktion der Inhalte verstanden. Wo ein Frontend, da ein Backend. Unter Backend versteht man Software im Hintergrund, die dazu dient, Inhalte der Website oder der App zu generieren. Der Frontend-Entwicker/in braucht Kenntnis und Verständnis für das Backend um damit zu interagieren.
+Die Frontend-Entwicker/in EFZ bauen Websites und Apps – konkret deren Frontend. Als Frontend wird die grafische Darstellung und Interaktion der Inhalte verstanden. Wo ein Frontend, da ein Backend. Unter Backend versteht man Software im Hintergrund, die dazu dient, Inhalte der Website oder der App zu generieren. Die Frontend-Entwicker/innen brauchen Kenntnis und Verständnis für das Backend um damit zu interagieren.
 
 Frontender stehen im Prozess zwischen Designer und Backender und sollten für eine reibungsarme Zusammenarbeit überschneidende Kompetenzen mit beiden Berufen haben.
+
+Die in der Grafik gezeigte Kluft «überbrücken» heute Mediamatiker, Informatiker, vereinzelt Poly­grafen und Grafiker, die sich selbstständig vertieft haben. Niemand aus diesen vier Berufen hat ab Lehrabschluss eine ausreichend grosse Schnittmenge, sofern überhaupt eine vorhanden ist.
+
+![Alt Schnittmengenvergleich](/darstellung-vergleich.svg)
+
+## Grössenvergleich der Schnittmengen
+Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger schwierig zu skizzieren. Die Darstellung hier ist unpräzis und entspricht einer Mischung aus persönlicher Erfahrung und der Einsicht in die einzelnen Bildungs­pläne. Der Mediamatiker als Generalist unter diesen vier Berufen ist am schwierigsten abzubilden. Bei ihm ist sehr ausschlaggebend, in was für einer Art Betrieb er die Lehre gemacht hat.
 
 ## Grobe «Skizze» des Fähigkeitenkatalogs
 - Kann HTML.
@@ -34,13 +43,3 @@ Frontender stehen im Prozess zwischen Designer und Backender und sollten für ei
 - Kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden.
 - Kann Rechte und Pflichte umsetzen bzw. seine Kunden beraten. (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...)
 - Schont Ressourcen.
-
-# Verdeutlichung der Positionierung
-Besagte Kluft «überbrücken» heute Mediamatiker, Informatiker, vereinzelt Polygrafen und Grafiker, die sich selbstständig vertieft haben. Niemand aus diesen 4 Berufen hat ab Lehrabschluss eine ausreichend grosse Schnittmenge, sofern überhaupt eine vorhanden ist. (IMD = Interactive Media Designer)
-
-![Alt Kluft](/kluft.png)
-
-## Grössenvergleich der Schnittmengen
-Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen Lehrabgänger schwierig zu skizzieren. Die Darstellung hier ist unpräzis und entspricht einer Mischung aus persönlicher Erfahrung und der Einsicht in die einzelnen Bildungspläne. Der Mediamatiker als Generalist unter diesen vier Berufen ist am schwierigsten abzubilden. Bei ihm ist sehr ausschlaggebend, in was für einer Art Betrieb er die Lehre gemacht hat.
-
-![Alt Schnittmengenvergleich](/schnittmengenvergleich.png)
