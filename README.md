@@ -14,11 +14,12 @@ Die Frontend-Entwicker/in EFZ bauen Websites und Apps – konkret deren Frontend
 
 Frontender stehen im Prozess zwischen Designer und Backender und sollten für eine reibungsarme Zusammenarbeit überschneidende Kompetenzen mit beiden Berufen haben.
 
-Die in der Grafik gezeigte Kluft «überbrücken» heute Mediamatiker, Informatiker, vereinzelt Poly­grafen und Grafiker, die sich selbstständig vertieft haben. Niemand aus diesen vier Berufen hat ab Lehrabschluss eine ausreichend grosse Schnittmenge, sofern überhaupt eine vorhanden ist.
+Die in der Grafik oben gezeigte Kluft «überbrücken» heute Mediamatiker, Informatiker, vereinzelt Poly­grafen und Grafiker, die sich selbstständig vertieft haben. Niemand aus diesen vier Berufen hat ab Lehrabschluss eine ausreichend grosse Schnittmenge, sofern überhaupt eine vorhanden ist.
+
+## Grössenvergleich der Schnittmengen
 
 ![Alt Schnittmengenvergleich](/darstellung-vergleich.svg)
 
-## Grössenvergleich der Schnittmengen
 Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger schwierig zu skizzieren. Die Darstellung hier ist unpräzis und entspricht einer Mischung aus persönlicher Erfahrung und der Einsicht in die einzelnen Bildungs­pläne. Der Mediamatiker als Generalist unter diesen vier Berufen ist am schwierigsten abzubilden. Bei ihm ist sehr ausschlaggebend, in was für einer Art Betrieb er die Lehre gemacht hat.
 
 ## Grobe «Skizze» des Fähigkeitenkatalogs
