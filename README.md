@@ -41,6 +41,6 @@ Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger 
 - Kennt Technologien des Internets.
 - Kennt Technologien des Webs.
 - Kann seine Werkzeuge (Hard- und Software) unterhalten.
-- Kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden.
+- Kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden (Bilingualer Unterricht).
 - Kann Rechte und Pflichte umsetzen bzw. seine Kunden beraten. (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...)
 - Schont Ressourcen.
