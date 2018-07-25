@@ -10,7 +10,7 @@ Es gibt am Markt einen Mangel an Fachkräften im Bereich Frontend-Entwicklung bz
 - Personen die die Anforderung der Gestaltung verstehen und in Zusammenarbeit mit dem Backend dies für den User zugänglich machen.
 
 # Arbeitsumfeld
-Die Frontend-Entwicker/in EFZ bauen Websites und Apps – konkret deren Frontend. Als Frontend wird die grafische Darstellung und Interaktion der Inhalte verstanden. Wo ein Frontend, da ein Backend. Unter Backend versteht man Software im Hintergrund, die dazu dient, Inhalte der Website oder der App zu generieren. Die Frontend-Entwicker/innen brauchen Kenntnis und Verständnis für das Backend um damit zu interagieren.
+Die Frontend-Entwicker/innen EFZ bauen Websites und Apps – konkret deren Frontend. Als Frontend wird die grafische Darstellung und Interaktion der Inhalte verstanden. Wo ein Frontend, da ein Backend. Unter Backend versteht man Software im Hintergrund, die dazu dient, Inhalte der Website oder der App zu generieren. Die Frontend-Entwicker/innen brauchen Kenntnis und Verständnis für das Backend um damit zu interagieren.
 
 Frontender stehen im Prozess zwischen Designer und Backender und sollten für eine reibungsarme Zusammenarbeit überschneidende Kompetenzen mit beiden Berufen haben.
 
