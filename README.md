@@ -38,9 +38,10 @@ Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger 
 - Kann verwandte Technologien und Arbeitsweisen erkennen und adaptieren.
 - Kann Designkonzepte interpretieren und weiterentwickeln.
 - Kann User durch den Inhalt führen.
+- Ermöglicht Usern barrierefreien Zugang (Accessibility).
 - Kennt Technologien des Internets.
 - Kennt Technologien des Webs.
 - Kann seine Werkzeuge (Hard- und Software) unterhalten.
 - Kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden (Bilingualer Unterricht).
-- Kann Rechte und Pflichte umsetzen bzw. seine Kunden beraten. (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...)
+- Kann Rechte und Pflichte umsetzen bzw. seine Kunden im Rahmen seines Fachwissens beraten. (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...)
 - Schont Ressourcen.
