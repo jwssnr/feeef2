@@ -30,11 +30,12 @@ Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger 
 - Kann Vektorbearbeitung und versteht deren Dateiformate.
 - Kann Bildbearbeitung und versteht deren Dateiformate.
 - Kann Git.
+- Kann Konsole/Terminal bedienen.
 - *Kann «Legacy-Technologien» (zu präzisieren, Beispiel PHP).*
 - *Versteht Prozesse des Backends (zu präzisieren)*.
 - Findet sich im Dschungel der Technologien zurecht, beurteilt Trends, reflektiert
 - Kann Wissen selbstständig erschliessen und für sich nutzbar machen.
-- Kennt die wichtige CMS und kann dafür Templates bauen.
+- Kennt die wichtigen CMS und kann dafür Templates bauen.
 - Kann verwandte Technologien und Arbeitsweisen erkennen und adaptieren.
 - Kann Designkonzepte interpretieren und weiterentwickeln.
 - Kann User durch den Inhalt führen.
