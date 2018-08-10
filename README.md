@@ -37,7 +37,7 @@ Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger 
 - Kann Wissen selbstständig erschliessen und für sich nutzbar machen.
 - Kennt die wichtigen CMS und kann dafür Templates bauen.
 - Kann verwandte Technologien und Arbeitsweisen erkennen und adaptieren.
-- Kennt Technologien des Internets, vertiefter jene im Kontext der Veröffentlichung ven Websites und Apps.
+- Kennt Topologie und Protokolle des Internets mit vertiefter Kenntnis der im direkten Zusammenhang mit dem Veröffentlichen von Websites und Apps stehenden Technologien und Übertragungswege.
 - Kann Designkonzepte interpretieren und weiterentwickeln.
 - Kann User durch den Inhalt führen.
 - Ermöglicht Usern barrierefreien Zugang (Accessibility).
