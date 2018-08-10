@@ -43,5 +43,5 @@ Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger 
 - Ermöglicht Usern barrierefreien Zugang (Accessibility).
 - Kann seine Werkzeuge (Hard- und Software) unterhalten.
 - Kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden (Bilingualer Unterricht).
-- Kann Rechte und Pflichte umsetzen bzw. seine Kunden im Rahmen seines Fachwissens beraten. (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...).
+- Kann Rechte und Pflichte umsetzen bzw. seine Kunden im Rahmen seines Fachwissens beraten (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...).
 - Schont Ressourcen.
