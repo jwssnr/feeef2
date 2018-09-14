@@ -39,6 +39,8 @@ Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger 
 - Kann verwandte Technologien und Arbeitsweisen erkennen und adaptieren.
 - Kennt Topologie und Protokolle des Internets mit vertiefter Kenntnis der im direkten Zusammenhang mit dem Veröffentlichen von Websites und Apps stehenden Technologien und Übertragungswege.
 - Kann Designkonzepte interpretieren und weiterentwickeln.
+- Kann Arbeiten und Aufträge systematisch und effizient vorbereiten, strukturieren und dokumentieren.
+- Kann in Projekten mitarbeiten und nach Projektmethoden arbeiten.
 - Kann User durch den Inhalt führen.
 - Ermöglicht Usern barrierefreien Zugang (Accessibility).
 - Kann seine Werkzeuge (Hard- und Software) unterhalten.
