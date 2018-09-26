@@ -1,3 +1,7 @@
+Folgenden Fragebogen können wir als Referenz verwenden, um unsere eigene Analyse aufzugleisen.
+
+----
+
 # Umfrage zur internen Anhörung Mediamatiker/in EFZ Revision
 
 Sehr geehrte Damen und Herren
