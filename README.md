@@ -47,8 +47,3 @@ Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger 
 - Kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden (Bilingualer Unterricht).
 - Kann Rechte und Pflichte umsetzen bzw. seine Kunden im Rahmen seines Fachwissens beraten (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...).
 - Schont Ressourcen.
-
-
-# Slack-Gruppe
-Interessiert am Austausch ausserhalb der Repo-Issues?
-Wir freuen wir uns über jeden Kopf in unsrer illustren Runde: [**feeef2.slack.com**](https://goo.gl/zGHsB2)
