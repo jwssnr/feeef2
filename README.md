@@ -31,7 +31,7 @@ Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger 
 - Kann Bildbearbeitung und versteht deren Dateiformate.
 - Kann Git.
 - Kann Konsole/Terminal bedienen.
-- *Kann «Legacy-Technologien» (zu präzisieren, Beispiel PHP).*
+- *Kann «Legacy-Technologien» (zu präzisieren).*
 - *Versteht Prozesse des Backends (zu präzisieren)*.
 - Findet sich im Dschungel der Technologien zurecht, beurteilt Trends, reflektiert
 - Kann Wissen selbstständig erschliessen und für sich nutzbar machen.
