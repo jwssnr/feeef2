@@ -43,7 +43,9 @@ Im Vergleich zum Soll-Zustand ist der Ist-Zustand der aktuellen ­Lehrabgänger 
 - Kann in Projekten mitarbeiten und nach Projektmethoden arbeiten.
 - Kann User durch den Inhalt führen.
 - Ermöglicht Usern barrierefreien Zugang (Accessibility).
+- Kann die technische Seite der SEO.
 - Kann seine Werkzeuge (Hard- und Software) unterhalten.
 - Kann Orthografie und Grammatik seiner Muttersprache und Englisch anwenden (Bilingualer Unterricht).
+- Versteht den aktuellen Jargon von Marketing und Design.
 - Kann Rechte und Pflichte umsetzen bzw. seine Kunden im Rahmen seines Fachwissens beraten (Urheberrecht, Datenschutzgesetze, Impressumspflicht, ...).
 - Schont Ressourcen.
